@@ -2,4 +2,4 @@
 - 👀 I’m interested in **Java**, **Golang** and **Python**
 - 🌱 I’m currently learning **Golang**
 - 💞️ I’m looking to collaborate on **nothing!**
-- 📫 How to reach me [Discord](https://discord.com/user/1093650694663323728)
+- 📫 How to reach me [Discord](https://discord.com/users/1093650694663323728)
